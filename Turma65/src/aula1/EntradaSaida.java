@@ -17,7 +17,7 @@ public class EntradaSaida {
 		System.out.println("Digite a distância: ");
 		distancia = leia.nextFloat();
 		
-		System.out.println("\nParabéns " + nome + ","
+		System.out.println("\nParabéns " + nome + "," 
 				+ " a sua distância percorrida foi de " + distancia + "Km");
 
 	}
